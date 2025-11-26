@@ -125,3 +125,4 @@ Subscriber toevoegen
     Category.name AS category_name
     FROM ToDo
     LEFT JOIN Category ON ToDo.category_id = Category.id;
+*/
